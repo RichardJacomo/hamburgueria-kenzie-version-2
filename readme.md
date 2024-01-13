@@ -138,5 +138,3 @@ Caso dê tudo certo, a resposta será assim:
 ```
 
 ---
-
-Feito com ♥ by tsunode
